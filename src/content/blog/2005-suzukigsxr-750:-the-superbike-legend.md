@@ -1,6 +1,6 @@
 ---
 title: "2005 Suzuki GSXR 750: The Superbike Legend"
-pubDate: 2024-10-02
+pubDate: 2016-03-08
 author: "David Kerr"
 image: "suzuki_gsxr_750.png"
 tags: ["motorcycles", "Suzuki", "GSXR 750", "superbike"]

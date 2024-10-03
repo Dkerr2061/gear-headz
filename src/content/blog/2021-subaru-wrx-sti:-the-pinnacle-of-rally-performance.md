@@ -1,6 +1,6 @@
 ---
 title: "2021 Subaru WRX STI: The Pinnacle of Rally Performance"
-pubDate: 2024-10-02
+pubDate: 2021-12-02
 author: "David Kerr"
 image: "subaru_wrx_sti.png"
 tags: ["cars", "Subaru", "WRX STI", "rally", "performance"]

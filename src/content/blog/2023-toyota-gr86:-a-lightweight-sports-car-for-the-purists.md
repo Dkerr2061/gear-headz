@@ -1,6 +1,6 @@
 ---
 title: "2023 Toyota GR86: A Lightweight Sports Car for the Purists"
-pubDate: 2024-10-02
+pubDate: 2023-09-12
 author: "David Kerr"
 image: "toyota_gr86.png"
 tags: ["cars", "Toyota", "GR86", "sports car", "lightweight"]

@@ -1,6 +1,6 @@
 ---
 title: "2020 Ducati Streetfighter: The Naked Beast"
-pubDate: 2024-10-02
+pubDate: 2020-05-03
 author: "David Kerr"
 image: "ducati_streetfighter.png"
 tags: ["motorcycles", "Ducati", "Streetfighter", "naked bike"]

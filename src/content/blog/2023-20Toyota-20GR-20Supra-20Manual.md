@@ -1,6 +1,6 @@
 ---
 title: "2023 Toyota GR Supra Manual: The Enthusiast’s Choice"
-pubDate: 2023-10-02
+pubDate: 2023-10-23
 author: "Bob Barker"
 image: "toyota_gr_supra.png"
 tags: ["cars", "Toyota", "GR Supra", "manual", "sports car"]

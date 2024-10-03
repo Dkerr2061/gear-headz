@@ -1,6 +1,6 @@
 ---
 title: "2004 Kawasaki Z1000: A Retro Streetfighter with Modern Power"
-pubDate: 2024-10-02
+pubDate: 2019-10-12
 author: "David Kerr"
 image: "kawasaki_z1000.png"
 tags: ["motorcycles", "Kawasaki", "Z1000", "streetfighter"]
